@@ -20,10 +20,10 @@ Thank to [Ahmed Oyelowo](https://foresightbi.com.ng/author/4eyes/) who made this
 1. Select the whole data range, go to **Data -> From Table/Range** and open it in **Power Query** 
 2. Delete all columns having Totals for Segments
 3. Delete the last row having Grand Totals
-4. Now Transpose the table with Transform  -> Transpose, the values in columns becomes rows and the values in rows becomes columns
-5. Fill the blank cells in the Segment column using Transform -> Fill -> Down
-6. Now promote the first row as Headers so the first row in the table is now used as the column headers using Transform -> Use first row as header
-7. Now Select the Segment and Shipmode columns and Unpivot other columns, Transform -> Unpivot Other Columns
+4. Now Transpose the table with **Transform  -> Transpose**, the values in columns becomes rows and the values in rows becomes columns
+5. Fill the blank cells in the Segment column using **Transform -> Fill -> Down**
+6. Now promote the first row as Headers so the first row in the table is now used as the column headers using **Transform -> Use first row as header**
+7. Now Select the Segment and Shipmode columns and Unpivot other columns, **Transform -> Unpivot Other Columns**
 8. Change the column header names as needed
 9. Data is clean as needed
 10. Close and Load it back to a worksheet
