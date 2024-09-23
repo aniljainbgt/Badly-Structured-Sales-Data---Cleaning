@@ -28,3 +28,9 @@ Thank to [Ahmed Oyelowo](https://foresightbi.com.ng/author/4eyes/) who made this
 9. Data is clean as needed
 10. Close and Load it back to a worksheet
 
+### Skills Used in Excel-Powr Query
+- Power Query
+  - Transpose
+  - Fill Down
+  - Promoting First Line as Header
+  - Pivot/Unpivot Columns
