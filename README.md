@@ -34,3 +34,8 @@ Thank to [Ahmed Oyelowo](https://foresightbi.com.ng/author/4eyes/) who made this
   - Fill Down
   - Promoting First Line as Header
   - Pivot/Unpivot Columns
+
+### Connect with Me
+
+- [**LinkedIn**](https://www.linkedin.com/in/anil-jain-bgt/)
+
